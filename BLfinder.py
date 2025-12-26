@@ -104,7 +104,7 @@ def show_creator_info():
 ╚════════════════════════════════════════════════════════╝
 {YELLOW}You want to know about me? See my social media profiles!{RESET}
 {GREEN}
-Instagram : https://www.instagram.com/__mr.binu__
+Instagram : https://www.instagram.com/_mr.binu_
 Twitter   : https://x.com/CypherBinu
 GitHub    : https://github.com/CypherBinu
 {RESET}
@@ -188,5 +188,6 @@ if __name__ == "__main__":
 
 
     print(f"\n{GREEN}✅ Scan complete! Results saved in {result_path}{RESET}")
+
 
 
