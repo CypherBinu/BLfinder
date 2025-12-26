@@ -189,3 +189,4 @@ if __name__ == "__main__":
 
     print(f"\n{GREEN}✅ Scan complete! Results saved in {result_path}{RESET}")
 
+
