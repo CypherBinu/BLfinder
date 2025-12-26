@@ -105,10 +105,8 @@ def show_creator_info():
 {YELLOW}You want to know about me? See my social media profiles!{RESET}
 {GREEN}
 Instagram : https://www.instagram.com/__mr.binu__
-Twitter   : https://x.com/MR_BINU_BB
-GitHub    : https://github.com/MR-BINU-BB
-Linkedin  : https://www.linkedin.com/in/mr-binu-416b16374
-YouTube   : Soon
+Twitter   : https://x.com/CypherBinu
+GitHub    : https://github.com/CypherBinu
 {RESET}
 """
     print(creator_banner)
@@ -190,3 +188,4 @@ if __name__ == "__main__":
 
 
     print(f"\n{GREEN}✅ Scan complete! Results saved in {result_path}{RESET}")
+
